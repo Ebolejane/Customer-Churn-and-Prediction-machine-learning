@@ -2,7 +2,7 @@
 
 
 ## Problem Statement
-Many businesses, especially in subscription-based services, telecom, banking, and e-commerce, struggle with customer churn—the loss of customers over time. Acquiring new customers is significantly more expensive than retaining existing ones. However, identifying which customers are likely to leave is challenging without data-driven insights.
+Customer churn is a significant challenge for businesses, especially in subscription-based services. Acquiring new customers is more expensive than retaining existing ones. However, identifying which customers are likely to leave is challenging without data-driven insights.
 
 ## Project Overview
 This project aims to predict customer churn using machine learning techniques. It involves data preprocessing, feature engineering, and model training to identify customers likely to churn.
